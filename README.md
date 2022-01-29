@@ -6,7 +6,7 @@ Implementation for the paper (submitted to IEEE Signal Processing Letters Journa
 [Puneet Kumar](https://puneet-kr.github.io/), Sarthak Malik and [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/)  
 
 ## Code Files
-The code files are currently private as the corresponding research paper in ICASSP 2022 is under review. They will be made publically available soon after the paper is published/accepted for publication.
+The code files are currently private as the corresponding research paper in IEEE SPL is under review. They will be made publically available soon after the paper is published/accepted for publication.
 
 Dataset Access
 --------------

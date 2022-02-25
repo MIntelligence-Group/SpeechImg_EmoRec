@@ -1,7 +1,7 @@
 Interpretable Emotion Recognition using Hybrid Fusion of Multimodal Speech and Image Signals
 ============================================================================================
 
-Implementation for the paper (submitted to IEEE Signal Processing Letters Journal). <br>
+Implementation for the paper (submitted to Elsevier Pattern Recognition Letters Journal). <br>
 **[Interpretable Emotion Recognition using Hybrid Fusion of Multimodal Speech and Image Signals][1]**<br>
 [Puneet Kumar](https://puneet-kr.github.io/), Sarthak Malik and [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/)  
 

@@ -1,12 +1,12 @@
 Interpretable Multimodal Emotion Recognition using Hybrid Fusion of Speech and Image Data
 ============================================================================================
 
-Implementation for the paper (submitted to Elsevier Pattern Recognition Letters Journal). <br>
+Implementation for the paper (submitted to Springer Multimedia Tools and Applications (MTAP) Journal). <br>
 **[Interpretable Multimodal Emotion Recognition using Hybrid Fusion of Speech and Image Data][1]**<br>
 [Puneet Kumar](https://puneet-kr.github.io/), Sarthak Malik and [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/)  
 
 ## Code Files
-The code files are currently private as the corresponding research paper in IEEE SPL is under review. They will be made publically available soon after the paper is published/accepted for publication.
+The code files are currently private as the corresponding research paper in MTAP is under review. They will be made publically available soon after the paper is published/accepted for publication.
 
 Dataset Access
 --------------
